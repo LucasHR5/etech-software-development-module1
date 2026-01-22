@@ -16,7 +16,7 @@ Esse tipo de argumento é o mais comum e direto em chamadas de função.
 
 ## Argumentos Nomeados
 
-Argumentos nomeados permitem demonstrar explicitamente qual parâmetro está recebendo determinado valor. Com isso, a ordem dos argumentos deixa de ser obrigatória, aumentando a legibilidade do código.
+Argumentos nomeados permitem informar explicitamente qual parâmetro está recebendo determinado valor. Com isso, a ordem dos argumentos deixa de ser obrigatória, aumentando a legibilidade do código.
 
 ## Operações Matemáticas em Funções
 
