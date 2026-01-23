@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Programação Orientada a Objetos (POO)
 
 A Programação Orientada a Objetos é um paradigma de programação que organiza o código em estruturas chamadas **classes** e **objetos**, permitindo maior organização, reutilização, manutenção e escalabilidade do software.
@@ -104,31 +103,3 @@ O polimorfismo geralmente está associado à herança e à sobrescrita de métod
 
 A Programação Orientada a Objetos é fundamental para o desenvolvimento de sistemas organizados e reutilizáveis.  
 Os pilares da POO — **classes, objetos, herança, encapsulamento e polimorfismo** — trabalham juntos para criar códigos mais claros, seguros e fáceis de manter.
-=======
-# Curso: Desenvolvimento de Software
-
-Este repositório contém os materiais, códigos e anotações referentes ao curso **Desenvolvimento de Software**.
-
-## Informações Gerais
-
-- **Curso:** Desenvolvimento de Software  
-- **Carga Horária:** 200 horas  
-- **Objetivo:** Introduzir e desenvolver competências em programação, com foco na linguagem Python e nos principais conceitos de desenvolvimento de software.
-
-## Estrutura do Curso
-
-### Módulo 1: Linguagem de Programação com Python
-
-#### Ementa
-- Introdução à linguagem Python  
-- Operadores  
-- Variáveis  
-- Criação e uso de funções  
-- Estruturas de controle de fluxo  
-- Introdução à orientação a objetos  
-
-## Organização do Repositório
-
-Os conteúdos estão organizados por aulas, contendo exemplos de código e possíveis anotações para estudo e prática.
-
->>>>>>> d30db812aa41e2d2d22020e6b5411d7b759dc401
