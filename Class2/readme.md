@@ -33,7 +33,7 @@ Ele é executado automaticamente sempre que um novo objeto é criado.
 Sua principal função é:
 
 - Inicializar os atributos do objeto
-- Definir o estado inicial da instância
+- Definir o estado inicial da instância.
 
 ---
 
